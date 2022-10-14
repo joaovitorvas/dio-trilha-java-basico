@@ -18,5 +18,11 @@ public class Usuario {
 
         smartTv.desligar();
         System.out.println("TV Ligada: " + smartTv.ligada);
+
+        Calculadora.somar(5, 3);
+
+        System.out.println(Quadrilatero.area(4));
+        System.out.println(Quadrilatero.area(4, 3));
+        System.out.println(Quadrilatero.area(4, 3, 4));
     }
 }

@@ -6,7 +6,7 @@ public class SmartTv {
     public void mudarCanal(int novoCanal) {
         canal = novoCanal;
     }
-    public void subirrCanal() {
+    public void subirCanal() {
         canal++;
     }
 
