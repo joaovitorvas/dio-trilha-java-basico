@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Documentacao/Documentacao.iml" filepath="$PROJECT_DIR$/Documentacao/Documentacao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Terminal/Terminal.iml" filepath="$PROJECT_DIR$/Terminal/Terminal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collections/collections.iml" filepath="$PROJECT_DIR$/collections/collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/dio-trilha-java-basico.iml" filepath="$PROJECT_DIR$/.idea/dio-trilha-java-basico.iml" />
+      <module fileurl="file://$PROJECT_DIR$/estrutura-repeticao/estrutura-repeticao.iml" filepath="$PROJECT_DIR$/estrutura-repeticao/estrutura-repeticao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-anatomia-classes/java-anatomia-classes.iml" filepath="$PROJECT_DIR$/java-anatomia-classes/java-anatomia-classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/metodos/metodos.iml" filepath="$PROJECT_DIR$/metodos/metodos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/operadores/operadores.iml" filepath="$PROJECT_DIR$/operadores/operadores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/operadoresrelacionais/operadoresrelacionais.iml" filepath="$PROJECT_DIR$/operadoresrelacionais/operadoresrelacionais.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tipos-e-variaveis/tipos-e-variaveis.iml" filepath="$PROJECT_DIR$/tipos-e-variaveis/tipos-e-variaveis.iml" />
+    </modules>
+  </component>
+</project>
